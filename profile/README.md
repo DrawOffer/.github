@@ -16,7 +16,7 @@
 
 </div>
 
-## 🌟 产品
+## 产品
 
 <table>
 <tr>
@@ -27,10 +27,10 @@
 
 把简历、投递、模拟面试和每一场真实面试存进**长期记忆**：改简历时知道你投的岗位，出题时知道你上次卡在哪。
 
-- 📝 简历编辑与 AI 检查，60+ 套中文模板
-- 📌 投递看板与面试日程
-- 🎙 AI 模拟面试与复盘报告
-- 🧠 知识图谱，标出还不牢的点
+- 简历编辑与 AI 检查，60+ 套中文模板
+- 投递看板与面试日程
+- AI 模拟面试与复盘报告
+- 知识图谱，标出还不牢的点
 
 **[免费开始 →](https://www.drawoffer.com/assistant)**<br>
 网页版 · 微信小程序 · [macOS / Windows](https://github.com/DrawOffer/drawoffer)
@@ -41,7 +41,7 @@
 
 **[LinkRag](https://linkrag.cn)** · 人人可用的企业级 RAG 系统：把复杂文档变成可以对话、可以溯源的知识。
 
-## 📦 开源项目
+## 开源项目
 
 **求职工具**
 
@@ -66,9 +66,9 @@
 | [LinkCli](https://github.com/DrawOffer/LinkCli) | 企业内部 MCP 聚合网关 |
 | [LinkSpec](https://github.com/DrawOffer/LinkSpec) | Spec 驱动 + 文档治理的 AI 开发工具包 |
 
-## 🤝 参与
+## 参与
 
 - 用 DrawOffer 遇到问题或有想法：[提交 Issue](https://github.com/DrawOffer/drawoffer/issues)
-- 觉得有用：给项目点个 ⭐，让更多同学看到
+- 觉得有用：给项目点个 Star，让更多同学看到
 
 <div align="center"><sub>© DrawOffer</sub></div>
